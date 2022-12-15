@@ -1,0 +1,4 @@
+KitKats: 3
+M&Ms: 3
+Reeses: 4
+Starburst: 1

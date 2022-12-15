@@ -1,0 +1,45 @@
+form {
+    border: 10px solid #c72121;
+    max-width: 550px;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+#results {
+    border: 10px solid #c72121;
+    max-width: 550px;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+img {
+    width: 550px;
+    height: 200px;
+}
+
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(
+    rgba(168, 168, 16, 0.5),
+    rgba(24, 24, 236, 0.5)
+  )
+}
+
+
+
+#submit-btn {
+    display: flex;
+    justify-content: center;
+   
+    margin: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+
+    background-color: #f8f9fa;
+    border: 1px solid #4b4b4b;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+
